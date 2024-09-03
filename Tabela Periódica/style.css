@@ -1,0 +1,198 @@
+.quadrado{
+    height: 100px;
+    width: 100px;
+    border-radius: 10%;
+    margin: 5px;
+    border: 3px solid black;
+    float: left;
+
+}
+.TabelaPeriodica{
+    width: 10000px;
+    height: 1000px;
+}
+.col1{
+    width: 125px;
+    height: 1000px;
+    margin-left: 5px;
+    float: left;
+}
+.col2{
+    width: 125px;
+    margin-left: 0px;
+    margin-top: 105px;
+    float: left;
+}
+.col3{
+    width: 125px;
+    margin-left: 0px;
+    margin-top: 330px;
+    float: left;
+}
+.col4{
+    width: 125px;
+    margin-left: 0px;
+    margin-top: 330px;
+    float: left;
+}
+.col5{  
+    width: 125px;
+    margin-left: 0px;
+    margin-top: 330px;
+    float: left;
+}
+.col6{ 
+     width: 125px;
+    margin-left: 0px;
+    margin-top: 330px;
+    float: left;
+}
+.col7{
+    width: 125px;
+    margin-left: 0px;
+    margin-top: 330px;
+    float: left;
+}
+.col8{
+    width: 125px;
+    margin-left: 0px;
+    margin-top: 330px;
+    float: left;
+}
+.col9{
+    width: 125px;
+    margin-left: 0px;
+    margin-top: 330px;
+    float: left;
+}
+.col10{
+    width: 125px;
+    margin-left: 0px;
+    margin-top: 330px;
+    float: left;
+}
+.col11{
+    width: 125px;
+    margin-left: 0px;
+    margin-top: 330px;
+    float: left;
+}
+.col12{
+    width: 125px;
+    margin-left: 0px;
+    margin-top: 330px;
+    float: left;
+}
+.col13{
+    width: 125px;
+    margin-left: 0px;
+    margin-top: 105px;
+    float: left;
+}
+.col14{
+     width: 125px;
+    margin-left: 0px;
+    margin-top: 105px;
+    float: left;
+}
+.col15{
+    width: 125px;
+    margin-left: 0px;
+    margin-top: 105px;
+    float: left;
+}
+.col16{
+    width: 125px;
+    margin-left: 0px;
+    margin-top: 105px;
+    float: left;
+}
+.col17{
+    width: 125px;
+    margin-left: 0px;
+    margin-top: 105px;
+    float: left;
+}
+.col18{
+    width: 125px;
+    margin-left: 0px;
+    margin-top: 0px;
+    float: left;
+}
+.tabela2{
+    width: 1900px;
+    height: 3000px;
+    display: block;
+    margin-left: 370px;
+
+}
+.lin1{
+    width: 1900px;
+    height: 120px;
+    float: left;
+   display: block;
+   margin-left: 5px;
+}
+.lin2{
+    width: 1900px;
+    height: 120px;
+    float: left;
+   display: block;
+   margin-left: 5px;
+   margin-top: 5px;
+}
+
+.corSalmon{
+    background-color:salmon ;
+}
+.corAmareloClaro{
+    background-color: lightyellow;
+}
+.corRosa{
+    background-color: pink;
+}
+.corVermelho{
+    background-color: crimson;
+}
+.corLaranja{
+    background-color: orangered;
+}
+.corRoxo{
+    background-color: purple;
+}
+.corAmarelo{
+    background-color: orange;
+}
+.cobrAzul{
+    background-color: darkblue;
+}
+.corAqua{
+    background-color: aqua;
+}
+.corVermelhoEscuro{
+    background-color: darkred;
+}
+.corLimao{
+    background-color: lime;
+}
+
+.span{
+    display: block;
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.elemento{
+    width: 100px;
+    text-align: center;
+    display: block;
+    font-size:xx-large;
+}
+.A{
+   display: block;
+   text-align: center;
+}
+.sigla{
+    text-align: center;
+    display: block;
+}
+

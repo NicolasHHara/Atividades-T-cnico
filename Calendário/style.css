@@ -1,0 +1,50 @@
+.Tabela{  
+    border: 1px solid black;
+    width: 610px;
+    height: 540px;
+  }
+  .Linha{
+    width: 600px;
+    height: 90px;
+    display: block;
+    border: 1px solid black;
+    float: left;
+    background-color: crimson;
+  }
+  .Linha2{
+    width: 600px;
+    height: 90px;
+    float: left;
+    display: block;
+  }
+  .Linha3{
+    width: 600px;
+    height: 90px;
+    float: left;
+    display: block;
+  }
+  .Linha4{
+    width: 600px;
+    height: 90px;
+    float: left;
+    display: block;
+  }
+  .corVermelho{
+    background-color: crimson;
+  }
+  .Titulo{
+    text-align: center;
+    font-size: xx-large;
+    display: block;
+    height: 90px;
+    width: 610px;
+    margin: 0px;
+  }
+  .Dia{
+    display: block;
+    border: 1px black solid;
+    height: 76px;
+    width: 76px;
+    float: left;
+    margin: 3px;
+  }

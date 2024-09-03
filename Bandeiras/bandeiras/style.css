@@ -1,0 +1,182 @@
+.bandeiras{
+    width: 150px;
+    height: 102px;
+    border: 1px solid black;
+    display: block;
+    margin: 10px;
+    float: left;
+ 
+}
+.bola{
+    width: 58px;
+    height: 58px;
+    display: block;
+    float: left;
+    border-radius:100% ;
+    margin-top: 22px;
+    margin-left: 45px;
+   
+}
+.col3{
+    width: 50px;
+    height: 102px;
+    display: block;
+    float: left;
+    
+}
+
+.corAzul{
+    background-color:blue;
+}
+.corBranco{
+    background-color: aliceblue;
+}
+.corVermelho{
+    background-color: crimson;
+}
+
+.lin3{
+    width: 150px;
+    height: 34px;
+    display: block;
+    float: left;
+    
+}
+.lin4{
+    width: 150px;
+    height: 25.5px;
+    display: block;
+    float: left;
+}
+.lin2{
+    width: 150px;
+    height: 51px;
+    display: block;
+    float: left;
+}
+
+.corPreto{
+    background-color:black;
+}
+.corVermelhos{
+    background-color: crimson;
+}
+.corAmarelo{
+    background-color: yellow;
+}
+.corVerde{
+    background-color: green;
+}
+.corLaranja{
+    background-color: orangered;
+}
+.bandeira{
+    width: 150px;
+    height: 102px;
+    border: 1px solid black;
+    display: block;
+    margin: 1px;
+    float: left;
+ 
+}
+.lishor{
+    width: 150px;
+    height: 25px;
+    display: block;
+    position:relative ;
+    top:35px ;
+
+}
+.lisvert{
+    width: 25px;
+    height: 102px;
+    position:relative ;
+    left: 35px;
+    top: -25px;
+
+}
+.bandeirasQuadrada{
+    height: 102px;
+    width: 102px;
+    display: block;
+    float: left;
+    border: 1px solid black;
+    margin: 10px;
+}
+#lishorSuica{
+    height: 20px;
+    width: 60px;
+    left: 20px;
+    top: 40px;
+
+}
+#lisvertSuica{
+    height: 60px;
+    width: 20px;
+    left: 40px;
+    top: 1px;
+}
+#lisvertTonga{
+    width: 7px;
+    height: 21px;
+    left: 25px;
+    top: 10px;
+}
+#lishorTonga{
+    width:22px;
+    height: 7px;
+    top: -3px;
+    left: 18px;
+    
+}
+#bandeiraTonga{
+    height: px;
+    width: 60px;
+    display: block;
+   
+}
+#lin2bo{  
+    width: 150px;
+    height: 40px;
+    display: block;
+    float: left;
+
+}
+#lin1bo{
+    width: 150px;
+    height: 5px;
+    display: block;
+    float: left;
+}
+#lin3bo{
+    width: 150px;
+    height: 10px;
+    display: block;
+    float: left;
+}
+#bandeiraBo{
+    width: 150px;
+    height: 102px;
+    border: 1,5px solid black;
+    display: block;
+    margin: 10px;
+    float: left;
+ 
+}
+#lin3{
+    width: 100px;
+    height: 34px;
+    display: block;
+    float: right;
+
+}
+#col1{
+    width: 50px;
+    height: 102px;
+    float: left;
+    bottom: 150px;
+    position: relative;
+    top: -68px;
+
+
+}

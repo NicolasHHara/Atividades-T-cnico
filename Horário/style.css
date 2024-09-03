@@ -1,0 +1,35 @@
+.Tabela{
+    border: 1px solid black;
+}
+.Horario{
+    border: 1px solid black;
+    height: 10px;
+}
+#H1{
+    border: 1px solid black;
+    
+}
+.Data{
+    border: 1px solid black;
+}
+.Data1{
+    border: 1px solid black;
+}
+.corRoxo{
+    background-color: blueviolet;
+}
+.corRosa{
+    background-color: palevioletred;
+}
+.corLaranja{
+    background-color: orangered;
+}
+.corAmarelo{
+    background-color: yellow;
+}
+.corVerde{
+    background-color: green;
+}
+.corCinza{
+    background-color: grey;
+}
